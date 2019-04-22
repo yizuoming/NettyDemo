@@ -1,0 +1,846 @@
+Message-ID: <580756849.2423960.1555898266898.JavaMail.admin@A01-R04-I227-85.JD.LOCAL>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2423959_959678493.1555898266898"
+
+------=_Part_2423959_959678493.1555898266898
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Espring+myb=
+atis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=
+=BB</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybati=
+s=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB</=
+h1>
+    <div class=3D"Section1">
+        <h1 id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8E=
+spring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=
+=86=E7=A6=BB-/*<![CDATA[*/div.rbtoc1555898266829{padding:0px;}div.rbtoc1555=
+898266829ul{list-style:disc;margin-left:0px;}div.rbtoc1555898266829li{margi=
+n-left:0px;padding-left:0px;}/*]]>*/#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=
+=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=
+=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-maven=E5=BC=95=E7=94=A8#id-=E3=80=90=E5=
+=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8E"><strong><style type=3D"text/css=
+">/*<![CDATA[*/
+div.rbtoc1555898266829 {padding: 0px;}
+div.rbtoc1555898266829 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1555898266829 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1555898266829">=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-"></a></li>=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-maven=E5=BC=95=E7=94=A8">maven=E5=BC=95=E7=94=A8</a></li>=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-spring-db-datasource.xml">spring-db-datasource.xml</a></li>=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-spring-db-jdbc.xml">spring-db-jdbc.xml</a></li>=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-=E4=BD=BF=E7=94=A8=E6=96=B9=E5=BC=8F">=E4=BD=BF=E7=94=A8=E6=96=B9=
+=E5=BC=8F</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-=E6=9C=89=E4=BA=8B=E5=8A=A1">=E6=9C=89=E4=BA=8B=E5=8A=A1</a></li>=
+=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-=E6=97=A0=E4=BA=8B=E5=8A=A1">=E6=97=A0=E4=BA=8B=E5=8A=A1</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-=E9=80=9A=E8=BF=87=E6=96=B9=E6=B3=95=E6=B3=A8=E8=A7=A3">=E9=80=9A=
+=E8=BF=87=E6=96=B9=E6=B3=95=E6=B3=A8=E8=A7=A3</a></li>=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-=E5=8D=95=E6=9D=A1sql">=E5=8D=95=E6=9D=A1sql</a></li>=20
+</ul> </li>=20
+</ul> </li>=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-=E5=9F=BA=E6=9C=AC=E5=B8=B8=E8=AF=86">=E5=9F=BA=E6=9C=AC=E5=B8=B8=
+=E8=AF=86</a></li>=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-=E8=AE=BE=E8=AE=A1=E6=80=9D=E8=B7=AF">=E8=AE=BE=E8=AE=A1=E6=80=9D=
+=E8=B7=AF</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-=E6=9C=89=E4=BA=8B=E5=8A=A1.1">=E6=9C=89=E4=BA=8B=E5=8A=A1</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-=E6=BA=90=E7=A0=81=E5=88=86=E6=9E=90">=E6=BA=90=E7=A0=81=E5=88=86=
+=E6=9E=90</a></li>=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-=E5=88=9B=E5=BB=BA=E4=BA=8B=E5=8A=A1">=E5=88=9B=E5=BB=BA=E4=BA=8B=
+=E5=8A=A1</a></li>=20
+</ul> </li>=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-=E6=97=A0=E4=BA=8B=E5=8A=A1.1">=E6=97=A0=E4=BA=8B=E5=8A=A1</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-=E9=80=9A=E8=BF=87=E6=96=B9=E6=B3=95=E6=B3=A8=E8=A7=A3.1">=E9=80=
+=9A=E8=BF=87=E6=96=B9=E6=B3=95=E6=B3=A8=E8=A7=A3</a></li>=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-=E5=8D=95=E6=9D=A1sql.1">=E5=8D=95=E6=9D=A1sql</a></li>=20
+</ul> </li>=20
+</ul> </li>=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-=E6=B6=89=E5=8F=8A=E7=9A=84=E7=B1=BB">=E6=B6=89=E5=8F=8A=E7=9A=84=
+=E7=B1=BB</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-TransactionSynchronizationManager">TransactionSynchronizationMana=
+ger</a></li>=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-DataSourceTransactionManager">DataSourceTransactionManager</a></l=
+i>=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-SqlSessionFactoryBean">SqlSessionFactoryBean</a></li>=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-MapperScannerConfigurer">MapperScannerConfigurer</a></li>=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-PlatformTransactionManager">PlatformTransactionManager</a></li>=
+=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-DynamicDataSource">DynamicDataSource</a></li>=20
+</ul> </li>=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-=E6=80=BB=E7=BB=93">=E6=80=BB=E7=BB=93</a></li>=20
+<li><a href=3D"#id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Esp=
+ring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=
+=E7=A6=BB-=E5=8F=82=E8=80=83">=E5=8F=82=E8=80=83</a></li>=20
+</ul>=20
+</div><br></strong></h1>
+<h1 id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Espring+m=
+ybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=
+=BB-maven=E5=BC=95=E7=94=A8"><strong>maven=E5=BC=95=E7=94=A8</strong></h1>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">&lt;dep=
+endency&gt;
+  &lt;groupId&gt;com.jd.lifetravel&lt;/groupId&gt;
+  &lt;artifactId&gt;base-spring&lt;/artifactId&gt;
+  &lt;version&gt;=E6=9C=80=E6=96=B0=E7=A8=B3=E5=AE=9A=E7=89=88=E6=9C=AC&lt;=
+/version&gt;
+&lt;/dependency&gt;</pre>=20
+</div>
+</div>
+<p><a href=3D"http://artifactory.jd.com/webapp/#/search/quick/eyJzZWFyY2giO=
+iJxdWljayIsInF1ZXJ5IjoiYmFzZS1zcHJpbmcifQ=3D=3D" class=3D"external-link" re=
+l=3D"nofollow">http://artifactory.jd.com/webapp/#/search/quick/eyJzZWFyY2gi=
+OiJxdWljayIsInF1ZXJ5IjoiYmFzZS1zcHJpbmcifQ=3D=3D</a></p>
+<h1 id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Espring+m=
+ybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=
+=BB-spring-db-datasource.xml">spring-db-datasource.xml</h1>
+<p><img height=3D"250" style=3D"margin: 2px; border: 1px solid #ddd; box-si=
+zing: border-box; vertical-align: text-bottom;" src=3D"90a2b3d45b8e438e2af9=
+4fa05389bb9b" width=3D"250"></p>
+<p>&nbsp;</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: xml; gutter: false; theme: Confluence" data-theme=3D"Confluence">&lt;bean=
+ id=3D"abstractDataSourcePool" class=3D"com.alibaba.druid.pool.DruidDataSou=
+rce" abstract=3D"true"
+      init-method=3D"init" destroy-method=3D"close"&gt;
+  &lt;property name=3D"driverClassName" value=3D"${master.jdbc.driver}"/&gt=
+;
+  &lt;property name=3D"maxWait" value=3D"15000"/&gt;
+  &lt;property name=3D"useUnfairLock" value=3D"true"/&gt;
+  &lt;property name=3D"initialSize" value=3D"2"/&gt;
+  &lt;property name=3D"minIdle" value=3D"2"/&gt;
+  &lt;property name=3D"maxActive" value=3D"20"/&gt;
+  &lt;property name=3D"removeAbandoned" value=3D"false"/&gt;
+  &lt;property name=3D"timeBetweenEvictionRunsMillis" value=3D"60000"/&gt;
+  &lt;property name=3D"minEvictableIdleTimeMillis" value=3D"180000"/&gt;
+  &lt;property name=3D"validationQuery" value=3D"SELECT 'x'"/&gt;
+  &lt;property name=3D"testWhileIdle" value=3D"true"/&gt;
+  &lt;property name=3D"testOnBorrow" value=3D"false"/&gt;
+  &lt;property name=3D"testOnReturn" value=3D"false"/&gt;
+  &lt;property name=3D"poolPreparedStatements" value=3D"false"/&gt;
+  &lt;property name=3D"maxPoolPreparedStatementPerConnectionSize" value=3D"=
+-1"/&gt;
+  &lt;property name=3D"filters" value=3D"stat"/&gt;
+&lt;/bean&gt;
+&nbsp;
+&lt;!-- =E4=B8=BB=E5=BA=93 =E6=95=B0=E6=8D=AE=E6=BA=90 --&gt;
+&lt;bean id=3D"masterDataSourcePool" parent=3D"abstractDataSourcePool"&gt;
+  &lt;property name=3D"url" value=3D"${master.jdbc.url}"/&gt;
+  &lt;property name=3D"username" value=3D"${master.jdbc.username}"/&gt;
+  &lt;property name=3D"password" value=3D"${master.jdbc.password}"/&gt;
+  &lt;property name=3D"name" value=3D"passenger_master"/&gt;
+&lt;/bean&gt;
+&nbsp;
+&lt;!-- =E4=BB=8E=E5=BA=93 =E6=95=B0=E6=8D=AE=E6=BA=90 --&gt;
+&lt;bean id=3D"slaveDataSourcePool" parent=3D"abstractDataSourcePool"&gt;
+  &lt;property name=3D"url" value=3D"${master.jdbc.url}"/&gt;
+  &lt;property name=3D"username" value=3D"${master.jdbc.username}"/&gt;
+  &lt;property name=3D"password" value=3D"${master.jdbc.password}"/&gt;
+  &lt;property name=3D"name" value=3D"passenger_slave"/&gt;
+&lt;/bean&gt;
+&nbsp;
+&lt;!--  =E5=8A=A8=E6=80=81=E6=95=B0=E6=8D=AE=E6=BA=90 --&gt;
+&lt;bean id=3D"dynamicDataSource" class=3D"com.jd.lifetravel.base.spring.da=
+tasource.DynamicDataSource"&gt;
+  &lt;property name=3D"writeDataSource" ref=3D"masterDataSourcePool"/&gt;
+  &lt;property name=3D"readDataSource" ref=3D"slaveDataSourcePool"/&gt;
+&lt;/bean&gt;
+&nbsp;
+&lt;!-- =E4=BA=8B=E5=8A=A1=E7=AE=A1=E7=90=86=E5=99=A8 --&gt;
+&lt;bean id=3D"transactionManagemasterDataSourcer" class=3D"com.jd.lifetrav=
+el.base.spring.datasource.DynamicDataSourceTransactionManager"&gt;
+  &lt;property name=3D"dataSource" ref=3D"dynamicDataSource"/&gt;
+&lt;/bean&gt;</pre>=20
+</div>
+</div>
+<p>&nbsp;</p>
+<h1 id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=E3=80=91=E5=9F=BA=E4=BA=8Espring+m=
+ybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=
+=BB-spring-db-jdbc.xml">spring-db-jdbc.xml</h1>
+<p><img height=3D"250" style=3D"margin: 2px; border: 1px solid #ddd; box-si=
+zing: border-box; vertical-align: text-bottom;" src=3D"01db60db93676f03a181=
+f40d6bc7d43b" width=3D"250"></p>
+<p>&nbsp;</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: xml; gutter: false; theme: Confluence" data-theme=3D"Confluence">&nbsp;
+&lt;bean id=3D"sqlSessionFactoryMaster" class=3D"org.mybatis.spring.SqlSess=
+ionFactoryBean"&gt;
+  &lt;property name=3D"dataSource" ref=3D"dynamicDataSource"/&gt;
+  &lt;property name=3D"configLocation" value=3D"classpath:jdbc/mybatis-conf=
+ig.xml"/&gt;
+  &lt;property name=3D"mapperLocations" value=3D"classpath*:com/jd/lifetrav=
+el/assistincome/mapper/*.xml"/&gt;
+  &lt;property name=3D"plugins"&gt;
+    &lt;list&gt;
+      &lt;!--=E9=9C=80=E8=A6=81=E6=94=BE=E7=BD=AE=E5=88=B0=E7=AC=AC=E4=B8=
+=80=E4=BD=8D--&gt;
+      &lt;bean class=3D"com.jd.lifetravel.base.spring.datasource.DynamicDat=
+aSourceInterceptor"&gt;&lt;/bean&gt;
+      &lt;bean class=3D"com.github.pagehelper.PageInterceptor"&gt;
+        &lt;property name=3D"properties"&gt;
+          &lt;value&gt;
+            helperDialect=3Dmysql
+            reasonable=3Dtrue
+            rowBoundsWithCount=3Dtrue
+            supportMethodsArguments=3Dtrue
+            params=3Dcount=3DcountSql
+            autoRuntimeDialect=3Dtrue
+          &lt;/value&gt;
+        &lt;/property&gt;
+      &lt;/bean&gt;
+    &lt;/list&gt;
+  &lt;/property&gt;
+&lt;/bean&gt;</pre>=20
+</div>
+</div>
+<h1 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-=E4=BD=BF=E7=94=A8=E6=96=B9=E5=BC=
+=8F">=E4=BD=BF=E7=94=A8=E6=96=B9=E5=BC=8F</h1>
+<h2 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-=E6=9C=89=E4=BA=8B=E5=8A=A1">=E6=9C=
+=89=E4=BA=8B=E5=8A=A1</h2>
+<ul class=3D"ul-list">
+<li class=3D"md-list-item"><p class=3D"md-end-block">@Transactional(readOnl=
+y =3D true) =E8=B5=B0=E4=BB=8E=E5=BA=93</p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block">@Transactional() =E8=
+=B5=B0=E4=B8=BB=E5=BA=93</p></li>
+</ul>
+<h2 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-=E6=97=A0=E4=BA=8B=E5=8A=A1">=E6=97=
+=A0=E4=BA=8B=E5=8A=A1</h2>
+<h3 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-=E9=80=9A=E8=BF=87=E6=96=B9=E6=B3=
+=95=E6=B3=A8=E8=A7=A3">=E9=80=9A=E8=BF=87=E6=96=B9=E6=B3=95=E6=B3=A8=E8=A7=
+=A3</h3>
+<ul class=3D"ul-list">
+<li class=3D"md-list-item"><p class=3D"md-end-block">@MethodDataSource(Dyna=
+micDataSourceType.READ) =E8=B5=B0=E4=BB=8E=E5=BA=93</p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block">@MethodDataSource(Dyna=
+micDataSourceType.WRITE) =E8=B5=B0=E4=B8=BB=E5=BA=93</p></li>
+</ul>
+<h3 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-=E5=8D=95=E6=9D=A1sql">=E5=8D=95=E6=
+=9D=A1sql</h3>
+<ul class=3D"ul-list">
+<li class=3D"md-list-item"><p class=3D"md-end-block">select=E8=B5=B0=E4=BB=
+=8E=E5=BA=93</p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block">insert/update/delete =
+=E8=B5=B0=E4=B8=BB=E5=BA=93</p></li>
+</ul>
+<h1 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-=E5=9F=BA=E6=9C=AC=E5=B8=B8=E8=AF=
+=86">=E5=9F=BA=E6=9C=AC=E5=B8=B8=E8=AF=86</h1>
+<ul class=3D"ul-list">
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>Connection=E4=BB=
+=A3=E8=A1=A8=E4=B8=80=E4=B8=AA=E8=BF=9E=E6=8E=A5=EF=BC=8C=E6=89=80=E6=9C=89=
+=E5=AF=B9=E6=95=B0=E6=8D=AE=E5=BA=93=E7=9A=84=E6=93=8D=E4=BD=9C=E6=9C=80=E7=
+=BB=88=E9=83=BD=E8=A6=81=E9=80=9A=E8=BF=87Connection=E8=BF=9B=E8=A1=8C</spa=
+n></p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>DataSource=E6=98=
+=AF=E6=B1=A0=E5=AD=90=EF=BC=8C=E9=87=8C=E9=9D=A2=E5=8C=85=E5=90=AB=E8=AE=B8=
+=E5=A4=9Aconnection</span></p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>Transaction=E4=
+=BA=8B=E5=8A=A1=EF=BC=8C=E9=80=9A=E8=BF=87=E6=8C=81=E6=9C=89=E7=9A=84DataSo=
+urce=E8=8E=B7=E5=8F=96=E8=BF=9E=E6=8E=A5=EF=BC=8C=E7=84=B6=E5=90=8E=E9=80=
+=9A=E8=BF=87=E8=BF=9E=E6=8E=A5=E7=9A=84comit=EF=BC=8Crollback=E5=AE=9E=E7=
+=8E=B0=E4=BA=8B=E5=8A=A1=E7=9A=84=E6=A6=82=E5=BF=B5</span></p></li>
+</ul>
+<p class=3D"md-end-block">&nbsp;</p>
+<h1 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-=E8=AE=BE=E8=AE=A1=E6=80=9D=E8=B7=
+=AF"><span>=E8=AE=BE=E8=AE=A1=E6=80=9D=E8=B7=AF</span></h1>
+<h2 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-=E6=9C=89=E4=BA=8B=E5=8A=A1.1"><spa=
+n>=E6=9C=89=E4=BA=8B=E5=8A=A1</span></h2>
+<ul class=3D"ul-list">
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span> =E5=9C=A8=E4=B8=
+=80=E4=B8=AA=E4=BA=8B=E5=8A=A1=E9=87=8C=E9=9D=A2=E8=8E=B7=E5=8F=96=E4=B8=80=
+=E4=B8=AA=E8=BF=9E=E6=8E=A5</span></p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>=E9=80=9A=E8=BF=
+=87ThreadLocal=E5=AE=9E=E7=8E=B0=E4=B8=8A=E4=B8=8B=E6=96=87=E4=BF=A1=E6=81=
+=AF=E4=BC=A0=E8=BE=93</span></p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>=E5=9C=A8=E5=88=
+=9B=E5=BB=BA=E4=BA=8B=E5=8A=A1=E7=9A=84=E6=97=B6=E5=80=99=E9=80=9A=E8=BF=87=
+=E5=88=A4=E6=96=AD=E4=BA=8B=E5=8A=A1=E7=9A=84=E8=AF=BB=E5=86=99=E7=89=B9=E6=
+=80=A7=EF=BC=8C=E5=A6=82=E6=9E=9C=E6=98=AFreadonly=E5=88=99=E5=9C=A8ThreadL=
+ocal=E4=B8=AD=E6=A0=87=E8=AE=B0=E4=B8=BAread,=E5=90=A6=E5=88=99writer</span=
+></p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>=E8=8E=B7=E5=8F=
+=96=E6=95=B0=E6=8D=AE=E6=BA=90=E7=9A=84=E6=97=B6=E5=80=99=E6=A0=B9=E6=8D=AE=
+read/writer=E6=A0=87=E8=AE=B0=EF=BC=8C=E8=8E=B7=E5=8F=96=E5=AF=B9=E5=BA=94=
+=E7=9A=84=E6=95=B0=E6=8D=AE=E6=BA=90=EF=BC=8C=E4=BB=8E=E8=80=8C=E8=8E=B7=E5=
+=8F=96=E7=9B=B8=E5=BA=94=E7=9A=84=E8=BF=9E=E6=8E=A5</span></p></li>
+</ul>
+<h3 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-=E6=BA=90=E7=A0=81=E5=88=86=E6=9E=
+=90"><span>=E6=BA=90=E7=A0=81=E5=88=86=E6=9E=90</span></h3>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: true; theme: Confluence" data-theme=3D"Confluence">  Transa=
+ctionAspectSupport#invokeWithinTransaction
+  =20
+  protected Object invokeWithinTransaction(Method method, Class&lt;?&gt; ta=
+rgetClass, final InvocationCallback invocation)
+     throws Throwable {
+     // =E5=88=9B=E5=BB=BA=E4=BA=8B=E5=8A=A1
+     TransactionInfo txInfo =3D createTransactionIfNecessary(tm, txAttr, jo=
+inpointIdentification);
+     Object retVal =3D null;
+     try {
+              //=E8=B0=83=E7=94=A8=E6=96=B9=E6=B3=95
+      retVal =3D invocation.proceedWithInvocation();
+     }
+     catch (Throwable ex) {
+      // =E6=8A=9B=E5=87=BA=E5=BC=82=E5=B8=B8=E5=9B=9E=E6=BB=9A=EF=BC=88=E7=
+=9C=8B=E5=85=B7=E4=BD=93=E6=83=85=E5=86=B5=EF=BC=89
+      completeTransactionAfterThrowing(txInfo, ex);
+      throw ex;
+     }
+     finally {
+              //=E6=B8=85=E9=99=A4=E4=BA=8B=E5=8A=A1=E4=B8=8A=E4=B8=8B=E6=
+=96=87=E4=BF=A1=E6=81=AF=EF=BC=8C=E4=BA=8B=E5=8A=A1=E4=BF=A1=E6=81=AF=E6=9C=
+=AC=E8=BA=AB=E6=B2=A1=E6=9C=89=E6=B8=85=E6=A5=9A
+      cleanupTransactionInfo(txInfo);
+     }
+           //=E6=8F=90=E4=BA=A4
+     commitTransactionAfterReturning(txInfo);
+     return retVal;
+    }</pre>=20
+</div>
+</div>
+<p><span>&nbsp;</span> <span class=3D"cm-tab-wrap-hack">&nbsp;</span></p>
+<h3 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-=E5=88=9B=E5=BB=BA=E4=BA=8B=E5=8A=
+=A1"><span>=E5=88=9B=E5=BB=BA=E4=BA=8B=E5=8A=A1</span></h3>
+<ul class=3D"ul-list">
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span> TransactionAspe=
+ctSupport#invokeWithinTransaction</span></p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>org.springframew=
+ork.transaction.PlatformTransactionManager#getTransaction</span></p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>org.springframew=
+ork.transaction.support.AbstractPlatformTransactionManager#doBegin</span></=
+p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>DynamicDataSourc=
+eTransactionManager#doBegin=EF=BC=88=E7=BB=A7=E6=89=BF=EF=BC=89=EF=BC=8C=E7=
+=BB=99ThreadLocal=E4=B8=AD=E6=89=93=E4=B8=8A=E7=9B=B8=E5=BA=94=E7=9A=84=E6=
+=A0=87=E8=AE=B0</span></p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>DataSourceTransa=
+ctionManager#doBegin</span></p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>AbstractRoutingD=
+ataSource#getConnection()</span></p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>DynamicDataSourc=
+e#determineCurrentLookupKey =E6=A0=B9=E6=8D=AE=E4=B8=8A=E4=B8=8B=E6=96=87=
+=E7=9A=84=E6=A0=87=E8=AE=B0=E8=8E=B7=E5=8F=96=E7=9B=B8=E5=BA=94=E7=9A=84=E6=
+=95=B0=E6=8D=AE=E6=BA=90=EF=BC=8C=E7=84=B6=E5=90=8E=E7=BB=99=E5=87=BA=E7=9B=
+=B8=E5=BA=94=E7=9A=84=E8=BF=9E=E6=8E=A5</span></p></li>
+</ul>
+<h2 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-=E6=97=A0=E4=BA=8B=E5=8A=A1.1"><spa=
+n>=E6=97=A0=E4=BA=8B=E5=8A=A1</span></h2>
+<h3 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-=E9=80=9A=E8=BF=87=E6=96=B9=E6=B3=
+=95=E6=B3=A8=E8=A7=A3.1"><span>=E9=80=9A=E8=BF=87=E6=96=B9=E6=B3=95=E6=B3=
+=A8=E8=A7=A3</span></h3>
+<ul class=3D"ul-list">
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>=E9=80=9A=E8=BF=
+=87aop=E7=9A=84=E5=89=8D=E7=BD=AE=E9=80=9A=E7=9F=A5=E8=A7=A3=E6=9E=90=E6=B3=
+=A8=E8=A7=A3=EF=BC=8C=E7=BB=99ThreadLocal=E4=B8=AD=E8=AE=BE=E7=BD=AE=E7=9B=
+=B8=E5=BA=94=E7=9A=84read/writer=E6=A0=87=E8=AE=B0</span></p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>=E8=8E=B7=E5=8F=
+=96=E6=95=B0=E6=8D=AE=E6=BA=90=E7=9A=84=E6=97=B6=E5=80=99=E6=A0=B9=E6=8D=AE=
+read/writer=E6=A0=87=E8=AE=B0=EF=BC=8C=E8=8E=B7=E5=8F=96=E5=AF=B9=E5=BA=94=
+=E7=9A=84=E6=95=B0=E6=8D=AE=E6=BA=90=EF=BC=8C=E4=BB=8E=E8=80=8C=E8=8E=B7=E5=
+=8F=96=E7=9B=B8=E5=BA=94=E7=9A=84=E8=BF=9E=E6=8E=A5</span></p></li>
+</ul>
+<h3 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-=E5=8D=95=E6=9D=A1sql.1"><span>=E5=
+=8D=95=E6=9D=A1sql</span></h3>
+<ul class=3D"ul-list">
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>=E9=80=9A=E8=BF=
+=87mybatis=E7=9A=84=E6=8F=92=E4=BB=B6=EF=BC=8C=E7=BB=99ThreadLocal=E4=B8=AD=
+=E8=AE=BE=E7=BD=AE=E7=9B=B8=E5=BA=94=E7=9A=84read/writer=E6=A0=87=E8=AE=B0<=
+/span></p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>=E8=8E=B7=E5=8F=
+=96=E6=95=B0=E6=8D=AE=E6=BA=90=E7=9A=84=E6=97=B6=E5=80=99=E6=A0=B9=E6=8D=AE=
+read/writer=E6=A0=87=E8=AE=B0=EF=BC=8C=E8=8E=B7=E5=8F=96=E5=AF=B9=E5=BA=94=
+=E7=9A=84=E6=95=B0=E6=8D=AE=E6=BA=90=EF=BC=8C=E4=BB=8E=E8=80=8C=E8=8E=B7=E5=
+=8F=96=E7=9B=B8=E5=BA=94=E7=9A=84=E8=BF=9E=E6=8E=A5</span></p></li>
+</ul>
+<h1 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-=E6=B6=89=E5=8F=8A=E7=9A=84=E7=B1=
+=BB"><span>=E6=B6=89=E5=8F=8A=E7=9A=84=E7=B1=BB</span></h1>
+<p class=3D"md-end-block">&nbsp;</p>
+<h2 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-TransactionSynchronizationManager">=
+<span>TransactionSynchronizationManager</span></h2>
+<p class=3D"md-end-block"><span> =E9=80=9A=E8=BF=87ThreadLocal=E4=BA=8B=E5=
+=8A=A1=E4=B8=8A=E4=B8=8B=E6=96=87=E4=BF=A1=E6=81=AF</span></p>
+<h2 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-DataSourceTransactionManager"><span=
+>DataSourceTransactionManager</span></h2>
+<p class=3D"md-end-block"><span> spring=E4=BA=8B=E5=8A=A1=E7=AE=A1=E7=90=86=
+=E5=99=A8=EF=BC=8C=E5=8C=85=E5=90=AB=E6=8F=90=E4=BA=A4=E5=9B=9E=E6=BB=9A</s=
+pan></p>
+<p class=3D"md-end-block">&nbsp;</p>
+<h2 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-SqlSessionFactoryBean"><span>SqlSes=
+sionFactoryBean</span></h2>
+<ul class=3D"ul-list">
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>=E8=A7=A3=E5=86=
+=B3=E9=9D=9Espringbean=E8=BD=AC=E6=8D=A2=E6=88=90springbean</span></p></li>
+</ul>
+<ul class=3D"ul-list">
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>mybatis=E7=9A=84=
+=E6=89=80=E6=9C=89=E9=85=8D=E7=BD=AE=E9=83=BD=E5=9C=A8=E8=BF=99=E4=B8=AA=E9=
+=87=8C=E9=9D=A2=E5=AE=8C=E6=88=90</span></p></li>
+</ul>
+<h2 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-MapperScannerConfigurer"><span>Mapp=
+erScannerConfigurer</span></h2>
+<ul class=3D"ul-list">
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>=E6=8E=A5=E5=8F=
+=A3=E7=9A=84=E5=AE=9E=E7=8E=B0=E7=B1=BB=E5=8F=AF=E4=BB=A5=E6=98=AFproxy</sp=
+an></p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>=E6=89=AB=E6=8F=
+=8F=E9=85=8D=E7=BD=AE=E8=B7=AF=E5=BE=84=E4=B8=8B=E7=9A=84dao=E6=8E=A5=E5=8F=
+=A3</span></p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>=E9=80=9A=E8=BF=
+=87=E6=8E=A5=E5=8F=A3=E6=89=BE=E5=88=B0=E5=AF=B9=E5=BA=94=E7=9A=84proxy</sp=
+an></p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>=E6=8A=8A=E4=BB=
+=A3=E7=90=86=E6=B3=A8=E5=86=8C=E6=88=90springbean</span></p></li>
+</ul>
+<h2 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-PlatformTransactionManager"><span>P=
+latformTransactionManager</span></h2>
+<p class=3D"md-end-block"><span> spring=E4=BA=8B=E5=8A=A1=E7=AE=A1=E7=90=86=
+=E5=99=A8=EF=BC=8C=E5=8C=85=E5=90=AB=E6=8F=90=E4=BA=A4=E5=9B=9E=E6=BB=9A</s=
+pan></p>
+<h2 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-DynamicDataSource"><span>DynamicDat=
+aSource</span></h2>
+<p class=3D"md-end-block"><span> =E4=BB=A3=E7=90=86=E6=95=B0=E6=8D=AE=E6=BA=
+=90=EF=BC=8C=E6=A0=B9=E6=8D=AE=E4=B8=8A=E4=B8=8B=E6=96=87=E6=89=BE=E5=88=B0=
+=E8=A2=AB=E4=BB=A3=E7=90=86=E7=9A=84=E6=95=B0=E6=8D=AE=E6=BA=90</span></p>
+<pre class=3D"md-fences md-end-block md-fences-with-lineno ty-contain-cm mo=
+deLoaded">  <span>@Override</span><br>  <span>public Connection getConnecti=
+on() throws SQLException {</span><br>  <span> &nbsp; return determineTarget=
+DataSource().getConnection();</span><br>  <span>}</span></pre>
+<h1 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-=E6=80=BB=E7=BB=93"><span>=E6=80=BB=
+=E7=BB=93</span></h1>
+<ul class=3D"ul-list">
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>=E4=BB=80=E4=B9=
+=88=E5=9C=BA=E6=99=AF=E4=BD=BF=E7=94=A8</span></p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>=E4=BD=BF=E7=94=
+=A8=E4=BB=A5=E5=90=8E=E5=B8=A6=E6=9D=A5=E7=9A=84=E5=A5=BD=E5=A4=84</span></=
+p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>=E4=BD=BF=E7=94=
+=A8=E4=BB=A5=E5=90=8E=E5=B8=A6=E6=9D=A5=E7=9A=84=E5=9D=8F=E5=A4=84</span></=
+p></li>
+<li class=3D"md-list-item"><p class=3D"md-end-block"><span>=E4=BD=BF=E7=94=
+=A8=E9=9C=80=E8=A6=81=E6=B3=A8=E6=84=8F=E4=BB=80=E4=B9=88-=EF=BC=88=E5=8F=
+=AA=E6=9C=89=E5=AF=B9=E8=AF=BB=E5=AE=9E=E6=97=B6=E6=80=A7=E8=A6=81=E6=B1=82=
+=E4=B8=8D=E9=AB=98=E7=9A=84=E5=9C=BA=E6=99=AF=E9=80=82=E5=90=88=E8=AF=BB=E5=
+=86=99=E5=88=86=E7=A6=BB=EF=BC=89</span></p></li>
+</ul>
+<div>
+<h1 class=3D"md-end-block md-heading" id=3D"id-=E3=80=90=E5=B9=B3=E5=8F=B0=
+=E3=80=91=E5=9F=BA=E4=BA=8Espring+mybatis=E7=9A=84=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB-=E5=8F=82=E8=80=83">=E5=8F=82=E8=80=
+=83</h1>
+<p class=3D"md-end-block"><span class=3D"md-link"><a href=3D"https://cf.jd.=
+com/pages/viewpage.action?pageId=3D137884924" rel=3D"nofollow">https://cf.j=
+d.com/pages/viewpage.action?pageId=3D137884924</a></span></p>
+<p class=3D"md-end-block"><span class=3D"md-link"><a href=3D"http://source.=
+jd.com/app/x-sharding" class=3D"external-link" rel=3D"nofollow">http://sour=
+ce.jd.com/app/x-sharding</a></span></p>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_2423959_959678493.1555898266898
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/01db60db93676f03a181f40d6bc7d43b
+
+iVBORw0KGgoAAAANSUhEUgAAAPoAAAD6CAMAAAC/MqoPAAADAFBMVEX19fXv7+98fHx1dXV9fX23
+t7eenp5wcHDn5+f09PTz8/Pd3d2SkpLY2Njt7e3Q0NCioqJycnKqqqq7u7uurq6CgoKGhobOzs7D
+w8PR0dGNjY3Hx8fj4+PGxsbS0tKoqKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAABYhwFnAAADdUlEQVR42u3ce1PaShjH8YdceMJCIpZbpaXs+39T7fT85zkex7aC
+gJAmQbnJIEyV0PD9wJiQ3Vx+7BrB7EQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP4C
+pePsJpjN3D2rTh3noUBvcOD5wd51fScoUPSyf0htv3yUg3KOspe9e3vGnRWo1fVdq590q5+kM47u
+HmUv3nRzSfSxPHKarXi0X/UCRQ8H7nAcy/RXOMotej6nuY5ezWeuNMztNJdL9Mj78jx74UZndYa/
+rH9/nr27uMyrPbw8djoYLudHnhTaRg92V740Re7L8uJ2+IoXL1/8yK3V+TRHdKITnegn8RWeVic6
+0YlOdKITnehEJ/ppRTfGnFP0NOzk6Uqy6w+kYs4l+vAuSBq7Pn8RzkTiu/Np9QsZ1G8/Svof+ZuB
+yEUurZ7LhafYeZAfxq06zdswTqL7w9mu6kWKXvtpJjKW0L13fk5EqkMzyiF6Pv+X6OnKcJnA+fRK
+9SJFl4ZXfZ4NtSHnFF16Tr0TVCpBp+59kvOKLpFf8/TSq/klObfob1idz/BEP7Ho04OGfgbTAkV3
+DgozdYoUPT5kePCRojMoHAAAAAAAAAAAAG/inS486WhHoZVvyXP7GlvLtm1ij0qveKcre7uSy3X2
+3L7G1rKXvl3/+THmMbRgkD0PL9uol3f0pqq2xNqy6pdkYkNVSadpp7RNbUUiDdWupsuyxYHG2TXX
+rmpvsfBpjbUyiVqq/UUPtz1N6lirWdkp0FCqKsb2zYcks7Hd7Dq6sdnh1qJQ0yrhyrggt2s6Salt
+JO/aynayNdbL2jUTLaqU1O9rcmKyVVuNn37bc1bWbnV+ICY9TBssTkPzHzaNXl0JmR3/fIV448S1
+UaZrg4YD1fmO7HLj+Xb4sT481ldebxkV4I8fV0f/VpZpXlTdVSbyxjf0+NPozvh/L73pRiMb325k
+3lLZ1GSPkkxma/dcK8uHtLQnW26ttl5WN1Etafysy5TiWfjv58XmF3vKMbofx4/pwPbb+5vkbNeW
+dtbLs2k7e/RlUg10md0b6q9k8T/X8bC1uqGvL8paN/ejxUja/pXzn3hJYaq92FP+jN3RBnFHwlfH
+Pzb+1sGhqrr771/z1fU7fLIGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8A5+A/6JmYDuA6Cp
+AAAAAElFTkSuQmCC
+------=_Part_2423959_959678493.1555898266898
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/90a2b3d45b8e438e2af94fa05389bb9b
+
+iVBORw0KGgoAAAANSUhEUgAAAPoAAAD6CAMAAAC/MqoPAAADAFBMVEX19fXv7+98fHx1dXV9fX23
+t7eenp5wcHDn5+f09PTz8/Pd3d2SkpLY2Njt7e3Q0NCioqJycnKqqqq7u7uurq6CgoKGhobOzs7D
+w8PR0dGNjY3Hx8fj4+PGxsbS0tKoqKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAABYhwFnAAAEE0lEQVR42u3ce1faSBzG8R+5MDGQiAVUUEr2/b+odbd/uGu9rKDh
+TjqZcCv2WNmKofD9iCfJZMzkYUKMZk5EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOA3
+UPiYZrzp1H5j1Yll9ffoDfYc13tzXdfy9ih60d2ktlv8kJ2yPqSVNx/thj3do15XW62+072+kw44
+uv0hrTiT9ZLwvDiwavVk8LbqexQ9iO3eMJHJUzDILXo+p7kz1chmGirI7TSXS/TQ+TyfPbbDgzrD
+n1T+ns8+Hp/k1R9OHo3GveX8wJG9tnYE2yt/NIX2y/X7e8AfOclyoZNbr3M1R3SiE53oO/EnPL1O
+dKITnehEJzrRiU703Yru+/4hRU/DjmZ3km03liP/UKL3Hj3d2ZVsIZiKJI+H0+vHElceziX9j/xd
+LHKcS6/ncuMpsfrS8e2SVXsIEh3d7U1fq75P0ctdfyRDCexnqzsSKfX8QQ7R8/m/REutDJfxrIuf
+VN+n6FJ1SvPZQFXlkKJLy6qceUdH3lnFuZDDii6hW3bUiVN2C3Jo0d+xOtfwRN+x6JONhn56kz2K
+bm0UZmLtU/Rkk+HBHxSdQeEAAAAAAAAAAAB4F79+40kNXlkZyZV+vSzcSpZINtrwr9/Zey253JjX
+y8LlWx+9X/Srm42qb/mmZmxeLwsXSu/c2nai15RSdYmiolKf9SQKlJJ0mh5qUU3VQ5GqUk2Vlpli
+TyXm9mpTqdZ6oas3FugfrElaOFvKWkirKM+U6+95Q2FdqXa2bvF4iyhqKVNFpS1skW6ypMSP2v4n
+vSt+1DS3zH1zxEblMFBplWBlCJDd9M/S/a/qTOuF6lIu1ewDuljKWpB60y87ZsPZt2notOyHep11
+Lo3FxgrKbSt9topKUSlZbGwLvZ4Mm/qDHctfcd8cXPf9lYPsqdM1Dx1ZHezqXMf/ptM7ifvrhYOR
+/bWxPF9kS1kL0vkvntpmw/Gyocdp3NHrXC9avo1JwfrHPAbgWZ7/2LgrN4g+VP1xZWX5BwMA3OF4
+NfvRYs5bL2zZFytjDWZL6y38qKGrq6vvTqz//ykfG0S3hvdO+nyNqhnK7ks2kttMffNVkNH0u8er
+FeVTurYlxReFN93bbHzon57+idnSrIXRWMZjkeuGbshfNFTxw7LIuCqh3poyXV9IpsHXy8WOLKq+
+e3Q3ScbpGPaH5zt9tjuVU3OCM9NT89WWUclTy+xOTz3p4i83Sa++XlgZTibX6f6fJPqsNVuatVAs
+JAW9ldr9RH/E5w3V754H+teB+5QMzufbajesW3H01lKni33aFj965Z1NziT4bUZ5bnw1p167iKl1
+RYJbrpEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA7IxvcvPwHWePcAIAAAAASUVORK5CYII=
+
+------=_Part_2423959_959678493.1555898266898--
